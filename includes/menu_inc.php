@@ -1,8 +1,10 @@
-<nav>
-	<ul class="menu-main">
-    	<li><a href="#">Menu Item 1</a></li>
-        <li><a href="#">Menu Item 2</a></li>
-        <li><a href="#">Menu Item 3</a></li>
-        <li><a href="#">Menu Item 4</a></li>
+<nav class="menu-main">
+	<ul>
+    	<li><a href="index.php">Forside</a></li>
+        <li><a href="om_materia.php">Om Materia</a></li>
+        <li><a href="aktiviteter.php">Aktiviteter</a></li>
+        <li><a href="praktisk_info.php">Praktisk Info</a></li>
+        <li><a href="galleri.php">Galleri</a></li>
+        <li><a href="kontakt.php">Kontakt</a></li>
     </ul>
 </nav>

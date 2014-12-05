@@ -1,20 +1,30 @@
 body {
-	background-color:#09F;
-	color: #009;
+	background-color:#FFF;
+	color: #333;
+	font-family: Roboto;
+	font-size: 14px;
 }
-
+header {
+	width: 1000px;
+	margin:auto;
+	vertical-align: bottom;
+}
+main{
+	width:1000px;
+	margin:auto;
+}
 a {
-	color: #C03;
+	color: #4575AF;
 	text-decoration:none;
 }
 a:hover {
-	color: #F30;
+	color: #000;
 }
 h1{
-	font-size: 1em;
+	font-size: 35px;
 	font-family:inherit;
 	font-weight:normal;
-	color:#093;
+	color:#333;
 	margin: 0;
 	padding: 0;
 }
@@ -42,14 +52,8 @@ h4{
 	color:#093;
 	margin: 0;
 	padding: 0;
-}h5{
-	font-size: 1em;
-	font-family:inherit;
-	font-weight:normal;
-	color:#093;
-	margin: 0;
-	padding: 0;
-}h6{
+}
+h5{
 	font-size: 1em;
 	font-family:inherit;
 	font-weight:normal;
@@ -57,12 +61,31 @@ h4{
 	margin: 0;
 	padding: 0;
 }
+h6{
+	font-size: 1em;
+	font-family:inherit;
+	font-weight:normal;
+	color:#093;
+	margin: 0;
+	padding: 0;
+}
+footer{
+	text-align:center;
+	margin:auto;
+	padding-top: 15px;
+}
+
 
 /*-----------------------------------------------------------------
 	module: Main site menu
 	class: menu-main
 ------------------------------------------------------------------*/
-.menu-main {}
+.menu-main {
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:30px;
+}
 .menu-main li {
 	display:inline;
+	padding: 30px;
 }
