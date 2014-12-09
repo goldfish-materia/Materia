@@ -6,6 +6,7 @@
 <link rel="stylesheet" type="text/css" href="css/reset.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link href='http://fonts.googleapis.com/css?family=roboto' rel='stylesheet' type='text/css'>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 </head>
 <body>
 <main>
