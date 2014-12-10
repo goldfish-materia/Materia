@@ -1,17 +1,34 @@
 body {
-	background-color:#FFF;
+	background-color:#333333;
 	color: #333;
 	font-family: Roboto;
-	font-size: 14px;
+	font-size: 13px;
 }
 header {
 	width: 1000px;
+	height: 360px;
+	background-image: url('http://localhost/materia/images/header_bg.png');
 	margin:auto;
 	vertical-align: bottom;
+}
+.menu_bue_bg{
+	margin: 0px;
+	position:absolute;
+	top: 305px;
 }
 main{
 	width:1000px;
 	margin:auto;
+	background-color: #ebd9c2;
+	background-image: url('http://localhost/materia/images/wooden_bg.png');
+}
+section{
+	margin:auto;
+	padding:20px;
+	line-height: 140%;
+}
+article{
+	padding-bottom:30px;
 }
 a {
 	color: #4575AF;
@@ -20,29 +37,43 @@ a {
 a:hover {
 	color: #000;
 }
+p{
+	display:block;
+}
+p.space{
+	margin-bottom:15px;
+}
+date{
+	font-weight:bold;
+	margin-top:10px;
+	margin-bottom:10px;
+}
 h1{
-	font-size: 35px;
+	font-size: 40px;
 	font-family:inherit;
 	font-weight:normal;
 	color:#333;
-	margin: 0;
+	margin-top: 25px;
+	margin-bottom: 25px;
 	padding: 0;
 }
 h2{
-	font-size: 1em;
+	font-size: 25px;
 	font-family:inherit;
 	font-weight:normal;
-	color:#093;
-	margin: 0;
+	color:#333;
+	margin-top: 25px;
+	margin-bottom:25px;
 	padding: 0;
 	
 }
 h3{
-	font-size: 1em;
+	font-size: 18px;
 	font-family:inherit;
 	font-weight:normal;
-	color:#093;
-	margin: 0;
+	color:#333;
+	margin-top: 20px;
+	margin-bottom: 10px;
 	padding: 0;
 }
 h4{
@@ -73,6 +104,7 @@ footer{
 	text-align:center;
 	margin:auto;
 	padding-top: 15px;
+	padding-bottom: 30px;
 }
 
 
@@ -84,8 +116,214 @@ footer{
 	text-align:center;
 	padding-top:30px;
 	padding-bottom:30px;
+	position:relative;
+	top: 245px;
 }
-.menu-main li {
+
+.menu-main li a {
+	color: #000;
+	opacity: 1;
+	font-size: 18px;
+}
+
+
+
+
+
+.menu-main li.menu1 {
+	position:absolute;
+	top:35px;
+	left: 10px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+.menu-main li.menu1:hover {
+	position:absolute;
+	top:35px;
+	left: 10px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_tree_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+
+
+
+.menu-main li.menu2 {
+	position:absolute;
+	top:20px;
+	left: 160px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+.menu-main li.menu2:hover {
+	position:absolute;
+	top:20px;
+	left: 160px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_tree_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+
+
+
+.menu-main li.menu3 {
+	position:absolute;
+	top:5px;
+	left: 345px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+.menu-main li.menu3:hover {
+	position:absolute;
+	top:5px;
+	left: 345px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_tree_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+
+
+
+.menu-main li.menu4 {
+	position:absolute;
+	top:5px;
+	left: 518px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+.menu-main li.menu4:hover {
+	position:absolute;
+	top:5px;
+	left: 518px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_tree_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+
+
+
+.menu-main li.menu5 {
+	position:absolute;
+	top:20px;
+	left: 708px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+.menu-main li.menu5:hover {
+	position:absolute;
+	top:20px;
+	left: 708px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_tree_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+
+
+
+
+
+.menu-main li.menu6 {
+	position:absolute;
+	top:35px;
+	left: 850px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+.menu-main li.menu6:hover {
+	position:absolute;
+	top:35px;
+	left: 850px;
+	padding-left: 37px;
+	padding-right: 37px;
+	padding-top: 15px;
+	padding-bottom: 37px;
+	background-image: url('http://localhost/materia/images/menu_tree_bg.png');
+	-moz-border-radius: 10px 10px 0px 0px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+
+
+
+
+.sub_menu {
+	text-align: center;
+	margin:auto;
+}
+
+.sub_menu ul li{
 	display:inline;
 	padding: 30px;
 }

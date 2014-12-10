@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>Materia</title>
 <link rel="stylesheet" type="text/css" href="css/reset.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link href='http://fonts.googleapis.com/css?family=roboto' rel='stylesheet' type='text/css'>
@@ -12,4 +12,5 @@
 <main>
  <header>
 	<?php include('includes/menu_inc.php');?>
+	<img class="menu_bue_bg" src="http://i.imgur.com/WLik1CS.png">
  </header>
