@@ -11,6 +11,8 @@
 <body>
 <main>
  <header>
+
+ 	<img class="logo" src="http://localhost/materia/images/materia_logo.png" alt="Materias logo">
 	<?php include('includes/menu_inc.php');?>
 	<img class="menu_bue_bg" src="http://i.imgur.com/WLik1CS.png">
  </header>
