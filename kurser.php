@@ -5,7 +5,7 @@
 
 
 	<h1>Kurser</h1>
-	<p class="space">	Kurser har fokus et emne/ håndværk og varer fra en til flere dage. 	Kurser kan også arrangeres efter aftale.</p>
+	<p class="space">	Kurser har fokus på ét emne/ håndværk og varer fra en til flere dage. 	Kurser kan også arrangeres efter aftale.</p>
 	
 	<article>
 		<h2>Kursus-kalender 2015:</h2>       	

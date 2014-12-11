@@ -349,3 +349,71 @@ footer a {
 	display:inline;
 	padding: 30px;
 }
+
+/*-----------------------------------------------------------------
+	module: om materia siden -> personer
+
+------------------------------------------------------------------*/
+.main{
+	width: 1000px;
+	height:5000px;
+}
+.ommateria {
+	width:900px;
+	margin-left:20px;
+}
+.personfotos {
+	float:left;
+	margin-left:10px;
+	margin-right:30px;
+	width: 250px;
+	height: 250px;
+}
+
+.undervisertekst {
+	height: 250px;
+	margin-left:100px;	
+}
+.peterknoss {
+	float:left;
+	width: 900px;
+	height: 250px;
+	margin-left: 10px;
+	margin-bottom:0px;
+}
+
+.klauspoulsen {
+	float:left;
+	width: 900px;
+	height: 250px;
+	margin-left: 10px;
+	margin-bottom:0px;
+}
+.troelsnyholt {
+	float:left;
+	width: 900px;
+	height: 250px;
+	margin-left: 10px;
+	margin-bottom:0px;
+}
+.andreas {
+	float:left;
+	width: 900px;
+	height: 250px;
+	margin-left: 10px;
+	margin-bottom:0px;
+}
+.pia {
+	float:left;
+	width: 900px;
+	height: 250px;
+	margin-left: 10px;
+	margin-bottom:0px;
+}
+.soren {
+	float:left;
+	width: 900px;
+	height: 250px;
+	margin-left: 10px;
+	margin-bottom:0px;
+}

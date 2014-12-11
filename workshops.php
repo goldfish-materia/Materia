@@ -1,5 +1,7 @@
 <?php include('includes/header_inc.php');?>
 <section>
+<?php include('includes/sub_menu.php');?>
+
 	<h1>Workshops</h1>
 <p>
 Workshops er når flere værksteder er åbne ad gangen.

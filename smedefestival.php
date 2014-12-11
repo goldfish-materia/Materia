@@ -12,7 +12,7 @@
 
 
 	<p>Håber ikke rusten har sat sig for godt fast i armene, for nu er det ”snart” tid til at mødes til den årlige smedefestival på Kr. Engvej.</p>
-	<p>Efter sidste års succes har Jonas Bigler indvilget i også at komme til dette års festival. Endvidere har vi fået lovning på, at Mads Jylov (tidligere arkæolog på Moesgaard museum), Jens Jørgen Olesen (museet i Thy og Vesterhanherred) samt et par dygtige smede fra Ribe VIkingecenter kommer.</p>
+	<p>Efter sidste års succes har Jonas Bigler indvilget i også at komme til dette års festival. Endvidere har vi fået lovning på, at Mads Jylov (tidligere arkæolog på Moesgaard museum), Jens Jørgen Olesen (museet i Thy og Vesterhanherred) samt et par dygtige smede fra Ribe Vikingecenter kommer.</p>
 	<p>Denne treenighed er nok den største kapacitet vi har i Norden, hvad myremalmsbrænding angår. Vi håber inderligt på, at det i kølvandet på malmbrændingen lykkes at få lov at banke på noget godt jomfrujern.</p>
 	<p>Igen i år tilbyder vi forskellige Workshops. Vi arbejder på at få sammensat en rigtig fed kombination af workshops som forhåbentligt vil ramme dybt som bredt.</p>
 	<p>Som et nyt tiltag til smedeweekenden i marts, vil der sideløbende med workshopsene blive afholdt en smedekonkurrence lørdag eftermiddag. Udfordringen i år vil være rør – pipes, tubes, cylindre…. Hvad kan man skabe ud af et rør? (mål: 2” x 20 cm), det er kun evnerne og fantasien som sætter grænser.</p>
