@@ -34,8 +34,7 @@
 			</p>
 		</article>
 
-		<article class="personfotos">
-			<img src="images/peterKnoss.png">
+		<img class="personfotos" src="images/peterKnoss.png">
 		</article>
 		<article class="persontekst">
 			<h3>Peter Knøss</h3>
@@ -47,10 +46,7 @@
 			</p>
 		</article>
 
-
-
-		<article class="personfotos">
-			<img src="images/klausPoulsen.png">
+		<img class="personfotos" src="images/klausPoulsen.png">
 		</article>
 		<article class="persontekst">
 			<h3>Klaus Poulsen</h3>
@@ -65,10 +61,7 @@
 			</p>
 		</article>
 
-
-
-		<article class="personfotos">
-			<img src="images/troelsNyholt.png">
+		<img class="personfotos" src="images/troelsNyholt.png">
 		</article>
 		<article class="persontekst">
 			<h3>Troels Nyholt</h3>
@@ -78,10 +71,7 @@
 			</p>
 		</article>
 
-
-
-		<article class="personfotos">
-			<img src="images/personAndreas.png">
+		<img class="personfotos" src="images/personAndreas.png">
 		</article>
 		<article class="persontekst">
 			<h3>Andreas</h3>
@@ -91,10 +81,7 @@
 			</p>
 		</article>
 
-
-
-		<article class="personfotos">
-			<img src="images/personPia.png">
+		<img class="personfotos" src="images/personPia.png">
 		</article>
 		<article class="persontekst">
 			<h3>Pia</h3>
@@ -103,10 +90,7 @@
 			</p>
 		</article>
 
-
-
-		<article class="personfotos">
-			<img src="images/personSoren.png">
+		<img class="personfotos" src="images/personSoren.png">
 		</article>
 		<article class="persontekst">
 			<h3>Søren</h3>

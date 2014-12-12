@@ -399,11 +399,14 @@ color:#eb5612;
 ------------------------------------------------------------------*/
 
 
-article.personfotos {
+.personfotos {
 	margin-right:30px;
 	width: 250px;
 	height: 250px;
     display: inline-block;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	border:3px solid #FFF;
 }
 
 article.persontekst {
@@ -414,6 +417,49 @@ article.persontekst {
 	height: 230px;
 }
 
+/*-----------------------------------------------------------------
+	module: kursus oversigt
+
+------------------------------------------------------------------*/
+
+.kursustekst {
+	float:right;
+	padding-top: 20px;
+	display:inline-block;
+	width: 650px;
+	height: 230px;
+}
+
+.kursuskrea, .kursusmad, .kursussten, .kursusbronze {
+	margin-right:30px;
+	width: 250px;
+	height: 250px;
+    display: inline-block;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	border:3px solid #FFF;
+}
+/*-----------------------------------------------------------------
+	module: nordisk mesterskab 2016 side
+
+------------------------------------------------------------------*/
+.nordisktekst, .smedefestivaltekst, .workshoptekst {
+	float: left;
+	padding-top: 20px;
+	display:inline-block;
+	width: 650px;
+	height: 230px;
+}
+.nordiskfoto, .smedefestivalfoto, .workshopfoto {
+	margin-left:5px;
+	margin-top:100px;
+	width: 250px;
+	height: 250px;
+    display: inline-block;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	border:3px solid #FFF;
+}
 /*-----------------------------------------------------------------
 	galleri: slider fra http://thedesignhill.com/wp-content/uploads/2014/01/creating-a-slick-auto-playing-featured-content-slider1
 

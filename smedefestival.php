@@ -3,10 +3,10 @@
 
 	<?php include('includes/sub_menu_aktiviteter.php');?>
 
-
+<article class="smedefestivaltekst">
 	<h1>Smedefestival</h1>
 
-	<date>Fredag eftermiddag d. 6. marts til søndag d. 8. marts.</date>
+	<date>Fredag eftermiddag d. 6. marts til søndag d. 8. marts 2015.</date>
 	
 	<h2>Kære Smedefolk.</h2>
 
@@ -19,6 +19,8 @@
 	<p>De som ønsker at deltage, tildeles 3 timer til at arbejde i, hvorefter produkterne vil blive bedømt - med fokus på deres kunstneriske og æstetiske udtryk. Dommerne er kunstnerne Jens Rømer og Bjørn Kromann. Der vil blive en flot præmie til vinderen.</p>
 	 
 	<p>Vi regner med at arrangementet kommer til koste ca. 300 kr. person. Det dækker lækker mad, kul, strøm, vand, brænde, grundmaterialer osv. for hele weekenden.</p>
+</article>
+<img class="smedefestivalfoto" src="images/smedefestival.png">
 </section>
 <?php include('includes/footer_inc.php');?>
 
