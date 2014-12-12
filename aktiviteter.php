@@ -1,7 +1,7 @@
 <?php include('includes/header_inc.php');?>
 <section>
 
-	<?php include('includes/sub_menu.php');?>
+	<?php include('includes/sub_menu_aktiviteter.php');?>
 
 
 	<h1>Aktiviteter</h1>

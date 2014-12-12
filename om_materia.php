@@ -86,7 +86,7 @@
 		<article class="persontekst">
 			<h3>Andreas</h3>
 			<p>
-				Her skal stå information om Troels
+				Her skal stå information om Andreas
 	
 			</p>
 		</article>

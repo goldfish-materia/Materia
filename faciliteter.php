@@ -1,4 +1,5 @@
 <?php include('includes/header_inc.php');?>
+<?php include('includes/sub_menu_praktiskinfo.php');?>
 <section>
 	<h1>Faciliteter</h1>
 <p>Materia ligger på et 23.000m2 stort område.
