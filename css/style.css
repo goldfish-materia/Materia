@@ -33,6 +33,10 @@ section{
 	padding:20px;
 	line-height: 140%;
 }
+
+img {
+	max-width: 960px;
+}
 article{
 	padding-bottom:30px;
 }

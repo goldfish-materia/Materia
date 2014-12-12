@@ -15,13 +15,8 @@ Velkommen til kursusstedet Materia.</p>
 
 <p class="undertext">
 Her udbydes kurser i mange gamle håndværk, fx smedning, træarbejde og friluftsliv.
-<<<<<<< HEAD
-Kurserne henvender sig til skoler, institutioner og private.
-Vi tror naivt på, at den manuelle historie og det skabende håndværk ligger dybt i os alle, man skal bare finde derind.....
-=======
 Kurserne henvender sig til skoler, institutioner og private.</p>
 <p class="undertext">Vi tror naivt på, at den manuelle historie og det skabende håndværk ligger dybt i os alle, man skal bare finde derind.
->>>>>>> origin/camilla
 </p>
 </section>
 <?php include('includes/footer_inc.php');?>
