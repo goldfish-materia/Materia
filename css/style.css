@@ -1,3 +1,5 @@
+
+
 body {
 	background-color:#333333;
 	color: #333;
@@ -104,6 +106,36 @@ h6{
 	margin: 0;
 	padding: 0;
 }
+
+.center{text-align:center;
+font-size:50px;
+margin-bottom:50px;
+margen-top:0px;
+}
+
+.forside{
+	font-size:20px;
+	text-align:center;
+	margin-bottom:10px;
+}
+
+.undertext {
+	text-align:center;
+	font-size:15;
+
+}
+.forside_træ, .forside_metal, .forside_ude {
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	border:3px solid #FFF;
+}
+
+.træarbej, .metalarbej, .udeliv {
+	color:#FFF;
+}
+
+
+	
 footer{
 	text-align:center;
 	margin:auto;
