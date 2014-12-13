@@ -108,9 +108,9 @@ h6{
 }
 
 .center{text-align:center;
-font-size:50px;
-margin-bottom:50px;
-margen-top:0px;
+	font-size:50px;
+	margin-bottom:50px;
+	margin-top:0px;
 }
 
 .forside{
@@ -391,8 +391,19 @@ color:#eb5612;
 	text-decoration:underline;
 }
 
+/*-----------------------------------------------------------------
+	module: aktiviteter -oversigtsside
 
+------------------------------------------------------------------*/
+.aktivitetworkshop, .aktivitetkursus, .aktivitetsmedefestival, .aktivitetnordisk {
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	border:3px solid #FFF;
+}
 
+. {
+	color:#FFF;
+}
 /*-----------------------------------------------------------------
 	module: om materia siden -> personer
 
