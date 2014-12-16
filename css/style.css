@@ -108,10 +108,16 @@ h6{
 	padding: 0;
 }
 
-.center{text-align:center;
-font-size:50px;
-margin-bottom:50px;
-margen-top:0px;
+
+h1.center{
+	text-align:center;
+	font-size:50px;
+	margin-bottom:50px;
+	margin-top:0px;
+}
+
+.center{
+	text-align:center;
 }
 
 .forside{
@@ -120,24 +126,25 @@ margen-top:0px;
 	margin-bottom:10px;
 }
 
-.undertext {
-	text-align:center;
-	font-size:15;
 
-}
 .forside_trae, .forside_metal, .forside_ude {
+	width: 225px;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
 	border:3px solid #FFF;
+	margin-left:30px;
+	margin-right:30px;
+	margin-top:20px;
+	margin-bottom:0px;
 }
 
 .traearbej, .metalarbej, .udeliv {
 	color:#333333;
-	font-size: 15px;
-	width: 220px;
+	font-size: 20px;
+	width: 290px;
 	display:inline-block;
 	margin:auto;
-	padding: 20px;
+	padding-top: 20px;
 	font-style: italic;
 	font-weight: bold;
 }
@@ -382,6 +389,17 @@ footer a {
 	cursor:pointer;
 }
 
+/*-----------------------------------------------------------------
+							LISTER
+------------------------------------------------------------------*/
+.liste {
+	margin-left:50px;
+	margin-top: 10px;
+	margin-bottom:10px;
+	list-style-image:url(../images/favicon.ico);	
+}
+
+
 
 /*-----------------------------------------------------------------
 	undermenuer til aktiviteter og praktisk info
@@ -392,6 +410,7 @@ footer a {
 	text-align: center;
 	margin:auto;
 	font-size:14px;
+	margin-bottom: 20px;
 }
 .sub_menu ul li a{
 color:#eb5612;
@@ -405,7 +424,46 @@ color:#eb5612;
 	text-decoration:underline;
 }
 
+/*-----------------------------------------------------------------
+	Kontakt
 
+------------------------------------------------------------------*/
+
+.kontakt{
+	width:20%;
+	display: inline-block;
+	min-height: 300px;
+}
+
+.kontakt_formular {
+	width: 60%;
+	float: right;
+	padding-top: 85px;
+	text-align: center;
+}
+
+.kontakt_formular input, .kontakt_formular textarea {
+	width: 70%;
+	padding: 3px;
+	margin: 5px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #777777;
+}
+
+button {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+.kontakt .small {
+	margin-top: 30px;
+	font-size: 9px;
+	font-weight: bold;
+}
 
 /*-----------------------------------------------------------------
 	module: om materia siden -> personer
@@ -458,22 +516,23 @@ article.persontekst {
 
 ------------------------------------------------------------------*/
 .nordisktekst, .smedefestivaltekst, .workshoptekst {
-	float: left;
-	padding-top: 20px;
 	display:inline-block;
 	width: 650px;
-	height: 230px;
+	min-height: 260px;
 }
 .nordiskfoto, .smedefestivalfoto, .workshopfoto {
 	margin-left:5px;
-	margin-top:100px;
+	margin-top:60px;
 	width: 250px;
 	height: 250px;
+	float:right;
     display: inline-block;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
 	border:3px solid #FFF;
 }
+
+
 
 
 

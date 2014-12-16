@@ -72,7 +72,12 @@ insertHead($options);?>
 		<article class="persontekst">
 			<h3>Troels Nyholt</h3>
 			<p>
-				Her skal stå information om Troels
+				Jeg er uddannet folkeskolelærer i 2014 og har en stor passion for håndværk og friluftsliv. 
+				Jeg kom første gang på Kristrupengvej i 2010 og smedning har optaget en stor den af min hjerne lige siden da. 
+				Jeg er helt afhængig af den tilstand af opslugthed man kommer i når man arbejder med materialerne og teknikkerne. 
+				Blandt mine vellykkede produkter er økser, båndknive, en hel masse af knive, damaskusstål og skulpturer. 
+				Her i blandt en kæmpe smedet stol flettet sammen af jernblomster. 
+				Ud over at undervise i smedningens kunst er jeg fridykkerinstruktør med speciale i undervandsjagt og så er jeg buejæger
 	
 			</p>
 		</article>

@@ -13,7 +13,7 @@ Velkommen til kursusstedet Materia.</p>
 
 	<p class="traearbej">Træarbejde</p>
 	<p class="metalarbej">Metalarbejde</p>
-	<p class="udeliv">Udeliv</p>
+	<p class="udeliv">Friluftsliv</p>
 
 
 <img class="forside_trae" src="galleri/galleri_061.jpg">
@@ -22,10 +22,10 @@ Velkommen til kursusstedet Materia.</p>
 </article>
 
 
-<p class="undertext">
+<p class="center">
 Her udbydes kurser i mange gamle håndværk, fx smedning, træarbejde og friluftsliv.
 Kurserne henvender sig til skoler, institutioner og private.</p>
-<p class="undertext">Vi tror naivt på, at den manuelle historie og det skabende håndværk ligger dybt i os alle, man skal bare finde derind.
+<p class="center">Vi tror naivt på, at den manuelle historie og det skabende håndværk ligger dybt i os alle, man skal bare finde derind.
 </p>
 </section>
 <?php include('includes/footer_inc.php');?>
