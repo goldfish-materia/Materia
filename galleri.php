@@ -1,4 +1,10 @@
 <?php include('includes/header_inc.php');?>
+<?php 
+$options = array(
+	"title" => "Materia Galleri"
+);
+insertHead($options);?>
+
 <section>
 	<h1>Galleri</h1>
 <!-- kode til slider fra http://thedesignhill.com/wp-content/uploads/2014/01/creating-a-slick-auto-playing-featured-content-slider1 -->

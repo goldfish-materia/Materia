@@ -1,4 +1,10 @@
 <?php include('includes/header_inc.php');?>
+<?php 
+$options = array(
+	"title" => "Materia Nordisk Mesterskab 2016"
+);
+insertHead($options);?>
+
 <section>
 <?php include('includes/sub_menu_aktiviteter.php');?>
 <article class="nordisktekst">

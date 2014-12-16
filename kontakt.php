@@ -1,4 +1,10 @@
 <?php include('includes/header_inc.php');?>
+<?php 
+$options = array(
+	"title" => "Materia kontakt"
+);
+insertHead($options);?>
+
 <section>
 	<h1>Kontakt</h1>
 <p>
