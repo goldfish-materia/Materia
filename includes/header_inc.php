@@ -2,6 +2,8 @@
 <html>
 <head>
 <meta charset="utf-8">
+<meta name="description" content=" Kursusstedet Materia tilbyder kurser i forhistorisk håndværk og æstetik, eksempelvis, smedning, bronzestøbning, sølvsmedarbejde, stenhugning, arbejde i frisk træ, træskæring og marionetter. Design i forskellige materialer, drivning og repousse, mokume gane.">
+<meta name="keywords" content=" Kristrup Engvej, Kursusstedet, friluftsliv, design, metalarbejde, myremalm, træarbejde, historisk hånværk, design, materialer, drivning og repousse, sølvsmedarbejde, mokume gane.">
 <link rel="stylesheet" type="text/css" href="css/reset.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="css/slider.css">
@@ -10,15 +12,7 @@
 <script type="text/javascript" src="js/jquery-1.2.6.min.js"></script>
 <script type="text/javascript" src="js/jquery-easing-1.3.pack.js"></script>
 <script type="text/javascript" src="js/jquery-easing-compatibility.1.2.pack.js"></script>
-<script type="text/javascript" src="js/coda-slider.1.1.1.pack.js"></script>
 	
-<script type="text/javascript">
-	$(function(){
-			
-		$("#main-photo-slider").codaSlider();
-
-	});
-</script>
 </head>
 <body>
 <main>
