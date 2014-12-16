@@ -1,4 +1,9 @@
 <?php include("includes/header_inc.php"); ?>
+<?php 
+$options = array(
+    "title" => "Materias galleri"
+);
+insertHead($options);?>
 
 <section>
 <h1>Galleri</h1>

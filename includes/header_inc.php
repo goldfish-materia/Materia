@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Materia</title>
 <link rel="stylesheet" type="text/css" href="css/reset.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="css/slider.css">
@@ -23,6 +22,7 @@
 </head>
 <body>
 <main>
+	<?php include('functions_inc.php'); ?>
  <header>
 
  	<img class="logo" src="http://localhost/materia/images/materia_logo.png" alt="Materias logo">

@@ -1,4 +1,10 @@
 <?php include('includes/header_inc.php');?>
+<?php 
+$options = array(
+	"title" => "Materias faciliteter"
+);
+insertHead($options);?>
+
 <?php include('includes/sub_menu_praktiskinfo.php');?>
 <section>
 	<h1>Faciliteter</h1>

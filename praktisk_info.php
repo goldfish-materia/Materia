@@ -1,4 +1,10 @@
 <?php include('includes/header_inc.php');?>
+<?php 
+$options = array(
+	"title" => "Materia Praktisk info"
+);
+insertHead($options);?>
+
 <section>
 	<h1>Praktisk info</h1>
 <p>

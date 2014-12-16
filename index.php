@@ -1,4 +1,9 @@
 <?php include('includes/header_inc.php');?>
+<?php 
+$options = array(
+	"title" => "Materia"
+);
+insertHead($options);?>
 <section>
 	<h1 class="center">Materia</h1>
     
