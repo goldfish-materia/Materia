@@ -33,10 +33,6 @@ section{
 	padding:20px;
 	line-height: 140%;
 }
-
-img {
-	max-width: 960px;
-}
 article{
 	padding-bottom:30px;
 }
@@ -240,8 +236,6 @@ footer a {
 
 
 
-
-
 .menu-main li.menu3 {
 	position:absolute;
 	top:5px;
@@ -270,7 +264,6 @@ footer a {
 	border-radius: 10px 10px 0px 0px;
 	cursor:pointer;
 }
-
 
 
 
@@ -306,8 +299,6 @@ footer a {
 
 
 
-
-
 .menu-main li.menu5 {
 	position:absolute;
 	top:20px;
@@ -336,10 +327,6 @@ footer a {
 	border-radius: 10px 10px 0px 0px;
 	cursor:pointer;
 }
-
-
-
-
 
 
 
@@ -464,6 +451,100 @@ article.persontekst {
 	border-radius: 50%;
 	border:3px solid #FFF;
 }
+
+/*-----------------------------------------------------------------
+	module: praktisk info side
+
+------------------------------------------------------------------*/
+.faciliteter1 {
+	float:left;
+	padding-left:125px;	
+}
+.medbring {
+	float:left;
+	padding-left:140px;
+	
+	}
+.priser {
+	float:left;
+	padding-left:110px;
+	
+	}
+.oversigtplantegningmini, .oversigtmedbring, .oversigpenge {
+	margin-left:65px;	
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	border:3px solid #FFF;
+}
+
+/*-----------------------------------------------------------------
+	module: Faciliteter side
+
+-----------------------------------------------------------------*/
+.vihar {	
+	margin-top:30px;
+}
+
+.oversigtliste {
+	margin-left:280px;
+	margin-top:-22px;
+	list-style-image: url(../images/favicon.ico);	
+}
+
+.påplan {
+	margin-top:40px;
+}
+
+.plantegning {
+	margin-left:80px;
+	margin-top:40px;	
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+}
+
+/*-----------------------------------------------------------------
+	module: Medbring side
+
+-----------------------------------------------------------------*/
+.vedbesog, .overnatning  {	
+	margin-left:60px;
+	margin-top:30px;
+}
+
+.pakkeliste, .overnatliste {
+	margin-left:280px;
+	margin-top:-22px;
+	list-style-image:url(../images/favicon.ico);	
+}
+
+
+.stemning {
+	margin-top:35px;
+	margin-left:175px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;	
+}
+
+/*-----------------------------------------------------------------
+	module: Pris side
+
+-----------------------------------------------------------------*/
+
+.endag {
+	margin-bottom:20px;
+}
+.grundpris, .overnatningpris {
+	margin-left: 160px;
+}
+
+.prisfor {
+	margin-top:20px;	
+}
+
+
+
 /*-----------------------------------------------------------------
 	galleri: slider fra http://thedesignhill.com/wp-content/uploads/2014/01/creating-a-slick-auto-playing-featured-content-slider1
 

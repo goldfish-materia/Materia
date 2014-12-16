@@ -1,12 +1,4 @@
 <?php include('includes/header_inc.php');?>
-
-<?php 
-$options = array(
-	"title" => "Materias workshops"
-);
-insertHead($options);?>
-
-
 <section>
 <?php include('includes/sub_menu_aktiviteter.php');?>
 <article class="workshoptekst">

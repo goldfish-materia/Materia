@@ -2,9 +2,9 @@
 <html>
 <head>
 <meta charset="utf-8">
+<title>Materia</title>
 <link rel="stylesheet" type="text/css" href="css/reset.css">
 <link rel="stylesheet" type="text/css" href="css/style.css">
-<link rel="stylesheet" type="text/css" href="css/slider.css">
 <link href='http://fonts.googleapis.com/css?family=roboto' rel='stylesheet' type='text/css'>
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 <script type="text/javascript" src="js/jquery-1.2.6.min.js"></script>
@@ -22,7 +22,6 @@
 </head>
 <body>
 <main>
-	<?php include('functions_inc.php'); ?>
  <header>
 
  	<img class="logo" src="http://localhost/materia/images/materia_logo.png" alt="Materias logo">

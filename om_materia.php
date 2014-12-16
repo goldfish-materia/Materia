@@ -1,10 +1,4 @@
 <?php include('includes/header_inc.php');?>
-<?php 
-$options = array(
-	"title" => "Om Materia"
-);
-insertHead($options);?>
-
 <section>
 
 		<article>
