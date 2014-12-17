@@ -11,6 +11,7 @@ insertHead($options);?>
 
 
 	<h1>Aktiviteter</h1>
+<<<<<<< HEAD
 	<p>Her kan du se hvad vi tilbyder.</p>
 
 	<article class="center">
@@ -27,6 +28,15 @@ insertHead($options);?>
 	</article>
 
 
+=======
+	<p>På Materia afholder vi meget forskelligt. Se mere under menuerne</p>
+	<a href="workshops.php"<img class="aktivitetworkshop" src>
+   <img class="aktivitetworkshop" src="images/workshop.png"
+    <img class="aktivitetkursus" src="images/kreainnoentre.png">
+    <img class="aktivitetsmedefestival" src="images/smedefestival.png">
+    <img class="aktivitetnordisk" src="images/nordic2016.png">
+    
+>>>>>>> origin/master
 </section>
 <?php include('includes/footer_inc.php');?>
 
