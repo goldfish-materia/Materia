@@ -26,7 +26,7 @@ insertHead($options);?>
 	 
 	<p>Vi regner med at arrangementet kommer til koste ca. 300 kr. person. Det dækker lækker mad, kul, strøm, vand, brænde, grundmaterialer osv. for hele weekenden.</p>
 </article>
-<img class="smedefestivalfoto" src="images/smedefestival.png">
+<img class="smedefestivalfoto" src="images/smedefestival.png" alt="smedefestival">
 </section>
 <?php include('includes/footer_inc.php');?>
 

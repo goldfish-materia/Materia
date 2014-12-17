@@ -22,7 +22,7 @@
         <li> Toiletgrej</li>
         <li> Evt. telte (lavvu kan bookes (samer-telt)) </li>
    	</ul>
-    <img class="stemning" src="images/medbring1.png"> 	
+    <img class="stemning" src="images/medbring1.png" alt="smedning"> 	
 
 </section>
 <?php include('includes/footer_inc.php');?>

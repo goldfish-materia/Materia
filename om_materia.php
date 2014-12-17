@@ -52,7 +52,7 @@ insertHead($options);?>
 			</p>
 		</article>
 
-		<img class="personfotos" src="images/klausPoulsen.png">
+		<img class="personfotos" src="images/klausPoulsen.png" alt="Klaus Poulsen">
 		</article>
 		<article class="persontekst">
 			<h3>Klaus Poulsen</h3>
@@ -67,7 +67,7 @@ insertHead($options);?>
 			</p>
 		</article>
 
-		<img class="personfotos" src="images/troelsNyholt.png">
+		<img class="personfotos" src="images/troelsNyholt.png" alt="Troels Nyholt">
 		</article>
 		<article class="persontekst">
 			<h3>Troels Nyholt</h3>
@@ -82,7 +82,7 @@ insertHead($options);?>
 			</p>
 		</article>
 
-		<img class="personfotos" src="images/personAndreas.png">
+		<img class="personfotos" src="images/personAndreas.png" alt="Andreas">
 		</article>
 		<article class="persontekst">
 			<h3>Andreas</h3>
@@ -92,7 +92,7 @@ insertHead($options);?>
 			</p>
 		</article>
 
-		<img class="personfotos" src="images/personPia.png">
+		<img class="personfotos" src="images/personPia.png" alt="Pia">
 		</article>
 		<article class="persontekst">
 			<h3>Pia</h3>
@@ -101,7 +101,7 @@ insertHead($options);?>
 			</p>
 		</article>
 
-		<img class="personfotos" src="images/personSoren.png">
+		<img class="personfotos" src="images/personSoren.png" alt="Søren">
 		</article>
 		<article class="persontekst">
 			<h3>Søren</h3>

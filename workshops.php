@@ -31,7 +31,7 @@ insertHead($options);?>
 	</ul>
 
 </article>
-<img class="workshopfoto" src="images/workshop.png">
+<img class="workshopfoto" src="images/workshop.png" alt="workshop">
 </section>
 <?php include('includes/footer_inc.php');?>
 

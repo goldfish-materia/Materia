@@ -13,7 +13,7 @@ insertHead($options);?>
 Her skal være information om det Nordiske Mesterskab i smedning, som afholdes på Materia i 2016.
 </p>
 </article>
-<img class="nordiskfoto" src="images/nordic2016.png">
+<img class="nordiskfoto" src="images/nordic2016.png" alt="nordisk mesterskab 2016">
 </section>
 <?php include('includes/footer_inc.php');?>
 

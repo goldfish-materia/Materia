@@ -146,41 +146,41 @@ insertHead($options);?>
         <!-- Slides Container -->
         <div u="slides" style="cursor: move; position: absolute; left: 0px; top: 0px; width: 550px; height: 350px; overflow: hidden;">
             <div>
-                <img u="image" src="galleri/galleri_01.JPG" />
-                <img u="thumb" src="galleri/galleri_01.JPG" />
+                <img u="image" src="galleri/galleri_01.JPG" alt="bålfade"/>
+                <img u="thumb" src="galleri/galleri_01.JPG" alt="bålfade"/>
             </div>
             <div>
-                <img u="image" src="galleri/galleri_02.jpg" />
-                <img u="thumb" src="galleri/galleri_02.jpg" />
+                <img u="image" src="galleri/galleri_02.jpg" alt="støbning"/>
+                <img u="thumb" src="galleri/galleri_02.jpg" alt="støbning"/>
             </div>
             <div>
-                <img u="image" src="galleri/galleri_03.jpg" />
-                <img u="thumb" src="galleri/galleri_03.jpg" />
+                <img u="image" src="galleri/galleri_03.jpg" alt="bronzestøbning"/>
+                <img u="thumb" src="galleri/galleri_03.jpg" alt="bronzestøbning"/>
             </div>
             <div>
-                <img u="image" src="galleri/galleri_04.jpg" />
-                <img u="thumb" src="galleri/galleri_04.jpg" />
+                <img u="image" src="galleri/galleri_04.jpg" alt="bronzestøbning"/>
+                <img u="thumb" src="galleri/galleri_04.jpg" alt="bronzestøbning"/>
             </div>
             <div>
-                <img u="image" src="galleri/galleri_05.jpg" />
-                <img u="thumb" src="galleri/galleri_05.jpg" />
+                <img u="image" src="galleri/galleri_05.jpg" alt="smedning"/>
+                <img u="thumb" src="galleri/galleri_05.jpg" alt="smedning"/>
             </div>
             <div>
-                <img u="image" src="galleri/galleri_07.jpg" />
-                <img u="thumb" src="galleri/galleri_07.jpg" />
+                <img u="image" src="galleri/galleri_07.jpg" alt="slibning"/>
+                <img u="thumb" src="galleri/galleri_07.jpg" alt="slibning"/>
             </div>
             <div>
-                <img u="image" src="galleri/galleri_10.jpg" />
-                <img u="thumb" src="galleri/galleri_10.jpg" />
+                <img u="image" src="galleri/galleri_10.jpg" alt="slibning"/>
+                <img u="thumb" src="galleri/galleri_10.jpg" alt="slibning"/>
             </div>
             
             <div>
-                <img u="image" src="galleri/galleri_11.jpg" />
-                <img u="thumb" src="galleri/galleri_11.jpg" />
+                <img u="image" src="galleri/galleri_11.jpg" alt="bålpandekager"/>
+                <img u="thumb" src="galleri/galleri_11.jpg" alt="bålpandekager"/>
             </div>
             <div>
-                <img u="image" src="galleri/galleri_12.jpg" />
-                <img u="thumb" src="galleri/galleri_12.jpg" />
+                <img u="image" src="galleri/galleri_12.jpg" alt="bålpandekager"/>
+                <img u="thumb" src="galleri/galleri_12.jpg" alt="bålpandekager"/>
             </div>
         </div>
         

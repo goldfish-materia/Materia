@@ -21,7 +21,7 @@
     
     <p class="påplan">På plantegningen her under, kan du danne dig et lille overblik over området.</p>
     
-    <img class="plantegning" src="images/plantegningMateria.png">
+    <img class="plantegning" src="images/plantegningMateria.png" alt="plantegning">
 	
 
 </section>

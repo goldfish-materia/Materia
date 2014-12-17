@@ -7,6 +7,8 @@ insertHead($options);?>
 
 <section class="kontakt">
 	<h1>Kontakt</h1>
+	<p class="space">Ejer: Peter E. Knøss</p>
+
 	<p>Post- og faktureringsadresse:</p>
 	<p>Peter E. Knøss</p>
 	<p>Udsigten 11</p>
