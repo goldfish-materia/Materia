@@ -38,11 +38,11 @@ article{
 	padding-bottom:30px;
 }
 a {
-	color: #4575AF;
+	color: #333333;
 	text-decoration:none;
 }
 a:hover {
-	color: #000;
+	color: #FFF;
 }
 p{
 	display:block;
@@ -591,12 +591,35 @@ article.persontekst {
 	padding-left:110px;
 	
 	}
-.oversigtplantegningmini, .oversigtmedbring, .oversigpenge {
-	margin-left:65px;	
+
+
+
+
+
+.praktisk_info_billede{
+	width: 225px;
 	-moz-border-radius: 50%;
 	border-radius: 50%;
 	border:3px solid #FFF;
+	margin-left:30px;
+	margin-right:30px;
+	margin-top:20px;
+	margin-bottom:0px;
 }
+
+
+
+
+.praktisk_info_tekst{
+	width: 225px;
+	margin-left:30px;
+	margin-right:30px;
+	display:inline-block;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 18px;
+}
+
 
 /*-----------------------------------------------------------------
 	module: Faciliteter side
@@ -662,4 +685,34 @@ article.persontekst {
 
 .prisfor {
 	margin-top:20px;	
+}
+
+
+
+
+
+/*-----------------------------------------------------------------
+	module: Aktiviteter
+
+-----------------------------------------------------------------*/
+
+.aktivitet_billeder {
+	width: 200px;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	border:3px solid #FFF;
+	margin-left:15px;
+	margin-right:15px;
+	margin-top:20px;
+	margin-bottom:0px;	
+}
+
+.aktivitet_tekst{
+	width: 200px;
+	margin-left:15px;
+	margin-right:15px;
+	display:inline-block;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 18px;
 }

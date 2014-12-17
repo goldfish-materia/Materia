@@ -1,21 +1,27 @@
 <?php include('includes/header_inc.php');?>
-<?php include('includes/sub_menu_praktiskinfo.php');?>
+<?php 
+$options = array(
+	"title" => "Praktisk info om Materia"
+);
+insertHead($options);?>
 <section>
 
 	<h1>Praktisk info</h1>
 
 	<p>
-	Her er en række informationer som er gode at læse inden du basøger Materie.
-	Som du kan fornemme er det er praktisk sted med en masse grove udendørs aktiviteter, der opfordre til praktisk tøj efter vejr og vind.
+	Her er en række informationer som er gode at læse inden du besøger Materia.
+	Som du kan fornemme er det er praktisk sted med en masse grove udendørs aktiviteter, der opfordrer til praktisk tøj efter vejr og vind.
 	</p>
 
-	<h2 class="faciliteter1">Faciliteter</h2> 
-	<h2 class="medbring">Godt at have med</h2>
-	<h2 class="priser">Priser på kurser</h2>
-    
-	<img class="oversigtplantegningmini" src="images/plantegningMateriamini.png" alt="plantegningmateria">
-	<img class="oversigtmedbring" src="images/ovesigtkuffert.png" alt="pakkeliste">
-	<img class="oversigpenge" src="images/penge.png" alt="omkostninger">
+	<article class="center">
+		<p class="praktisk_info_tekst"><a href="faciliteter.php">Faciliteter</a></p> 
+		<p class="praktisk_info_tekst"><a href="medbring.php">Godt at have med</a></p>
+		<p class="praktisk_info_tekst"><a href="priser.php">Priser på kurser</a></p>
+	    
+		<a href="faciliteter.php"><img class="praktisk_info_billede" src="images/plantegningMateriamini.png" alt="plantegningmateria"></a>
+		<a href="medbring.php"><img class="praktisk_info_billede" src="images/ovesigtkuffert.png" alt="pakkeliste"></a>
+		<a href="priser.php"><img class="praktisk_info_billede" src="images/penge.png" alt="omkostninger"></a>
+	</article>
 
 </section>
 <?php include('includes/footer_inc.php');?>

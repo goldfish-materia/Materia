@@ -1,4 +1,9 @@
 <?php include('includes/header_inc.php');?>
+<?php 
+$options = array(
+    "title" => "Medbring til Materia"
+);
+insertHead($options);?>
 <?php include('includes/sub_menu_praktiskinfo.php');?>
 <section>
 	<h1>Medbring</h1>
@@ -20,7 +25,7 @@
     	<li> Sovepose og liggeunderlag </li>
         <li> Lommelygte/pandelampe </li>
         <li> Toiletgrej</li>
-        <li> Evt. telte (lavvu kan bookes (samer-telt)) </li>
+        <li> Evt. telte (lavvu / samer-telt kan bookes)</li>
    	</ul>
     <img class="stemning" src="images/medbring1.png" alt="smedning"> 	
 

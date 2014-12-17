@@ -1,4 +1,9 @@
 <?php include('includes/header_inc.php');?>
+<?php 
+$options = array(
+	"title" => "Materias priser"
+);
+insertHead($options);?>
 <?php include('includes/sub_menu_praktiskinfo.php');?>
 <section>
 	<h1>Priser på kurser og workshops</h1>
